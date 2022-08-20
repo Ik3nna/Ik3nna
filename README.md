@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikenna
 - 👀 I’m a software engineer, a frontend web developer to be precise
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any projects related to web development 
 - 📫 You could always send a mail to ndukwuikenna@yahoo.com if you want to reach me
 <!---
