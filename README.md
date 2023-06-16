@@ -10,9 +10,9 @@ Skills
 
 HTML
 CSS
+SCSS
 Bootstrap
 Chakra UI
-SCSS
 JavaScript
 React
 TypeScript
